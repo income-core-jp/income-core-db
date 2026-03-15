@@ -1,0 +1,4 @@
+﻿Ticker,Name_JP,Name_EN,Sector_Code,Sector_Name,Country,Currency,Asset_Class,Exchange,IPO_Date,Market_Cap_Class,Dividend_Type,ROIC,EPS_Growth_5Y,Dividend_Yield,Payout_Ratio
+9432,NTT,NTT Corp,COMM,Communication,Japan,JPY,Stock,TSE,1987,Large,Dividend,,,,
+8593,三菱HCキャピタル,Mitsubishi HC Capital,FIN,Financial,Japan,JPY,Stock,TSE,1971,Large,Dividend,,,,
+9433,KDDI,KDDI Corp,COMM,Communication,Japan,JPY,Stock,TSE,1984,Large,Dividend,,,,
